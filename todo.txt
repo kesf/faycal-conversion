@@ -6,4 +6,4 @@ conversion functions needed:
 - Feet to Inches
 - Dgrees to Radians
 - Add other metric conversion
-- add conccerion.py
+- add conversion.py
