@@ -4,3 +4,4 @@ conversion functions needed:
 - Gallons to Meters
 - Hours to Minutes
 - Feet to Inches
+- Dgrees to Radians
