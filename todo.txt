@@ -5,3 +5,4 @@ conversion functions needed:
 - Hours to Minutes
 - Feet to Inches
 - Dgrees to Radians
+- Add other metric conversion
